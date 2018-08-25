@@ -1,6 +1,6 @@
 # README
 
->"need to be able to add a README.md to my github profile to point out what works, what is an experiment, and what is Frankenstein's monster" - George Pollard on Twitter, https://twitter.com/porges/status/969393072554500096
+These are most of the repositories under my profile. Here's what works, what is an experiment, and what is Frankenstein's monster.
 
 ## What works
 - https://github.com/moodmosaic/blog
@@ -24,3 +24,7 @@
 - https://github.com/moodmosaic/id3-tags
 - https://github.com/moodmosaic/quickcheck-fscheck-samples
 - https://github.com/moodmosaic/doctest
+
+## Credits
+
+>"need to be able to add a README.md to my github profile to point out what works, what is an experiment, and what is Frankenstein's monster" - George Pollard on Twitter, https://twitter.com/porges/status/969393072554500096
