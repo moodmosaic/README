@@ -1,6 +1,6 @@
 # README
 
-These are most of the repositories under my profile. Here's what works, what is an experiment, and what is Frankenstein's monster.
+These are the public repositories under my profile, including forks of projects I'm contributing to, or forks of projects that I have a branch I'm working on.
 
 ## What works
 - https://github.com/moodmosaic/blog
