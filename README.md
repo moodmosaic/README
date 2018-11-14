@@ -18,6 +18,7 @@ These are the public repositories under my profile, including forks of projects 
 - https://github.com/moodmosaic/dependency-rejection-samples/tree/switch-to-hedgehog
 - https://github.com/moodmosaic/PollingConsumer/tree/hedgehog
 - https://github.com/moodmosaic/fsharp-hedgehog-samples
+- https://github.com/moodmosaic/hedgehog-inline-csharp-testing
 
 ## What is a Frankenstein's monster
 - https://github.com/moodmosaic/LightCheck
